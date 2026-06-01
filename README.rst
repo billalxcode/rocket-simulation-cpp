@@ -1,0 +1,5 @@
+For educational purposes, this project simulates rocket flight using C++. It includes various environment models (like Earth and Moon) and a state vector to represent the rocket's state during flight. The code is structured to allow for easy extension with additional environments or more complex physics in the future.
+---
+Hanya untuk tujuan edukasi, proyek ini mensimulasikan penerbangan roket menggunakan C++. Proyek ini mencakup berbagai model lingkungan (seperti Bumi dan Bulan) dan vektor keadaan untuk merepresentasikan keadaan roket selama penerbangan. Kode ini disusun untuk memungkinkan perluasan yang mudah dengan lingkungan tambahan atau fisika yang lebih kompleks di masa depan.
+---
+Proyek ini dibuat untuk pembelajaran dan eksperimen pribadi. Tidak ada jaminan bahwa kode ini bebas dari bug atau kesalahan, dan pengguna harus menggunakan kode ini dengan risiko mereka sendiri. Proyek ini tidak dimaksudkan untuk digunakan dalam aplikasi nyata atau kritis, dan tidak boleh digunakan untuk tujuan apa pun selain pembelajaran dan eksperimen pribadi.
