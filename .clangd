@@ -1,0 +1,11 @@
+CompileFlags:
+  Add: [-std=c++20, -Wall]
+  CompilationDatabase: build/ # lokasi compile_commands.json
+
+Diagnostics:
+  UnusedIncludes: Strict
+
+InlayHints:
+  Enabled: true
+  ParameterNames: true
+  DeducedTypes: true
